@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](bit.ly/3zVW6U5) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCMa8Ur5iiGOI9trpoCprK5g?sub_confirmation=1) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/ZqscEsW9xY) 
 [![Telegram](https://img.shields.io/badge/telegram-blue?&logo=telegram&logoColor=white)](https://t.me/logicalcodes) 
 
